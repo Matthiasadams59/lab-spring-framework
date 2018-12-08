@@ -1,5 +1,18 @@
 # sakila-business-dao
 
+## Deployment
+
+* Maven
+At the root the project :
+```
+mvn install
+mvn clean compile package ;
+```
+Then to launch the SakilaBusinessDaoApplication class (see the requirements first) : 
+```
+java -jar target/sakila-business-dao-0.0.1-SNAPSHOT.jar
+```
+
 ## Built with
 
 * Spring Tool Suite 4.0.1
