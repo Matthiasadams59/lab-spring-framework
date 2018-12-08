@@ -22,6 +22,8 @@ java -jar target/sakila-business-dao-0.0.1-SNAPSHOT.jar
 
 ## Requirements
 
+* Java 8+
+* Maven
 * Sakila database (https://dev.mysql.com/doc/sakila/en/) imported in your MySQL Provider
 * MySQL Active on Port 8889
 
