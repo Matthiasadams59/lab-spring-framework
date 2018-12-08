@@ -1,5 +1,7 @@
 # sakila-business-dao
 
+Spring Boot DAO project
+
 ## Deployment
 
 * Maven
